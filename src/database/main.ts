@@ -1,4 +1,4 @@
-import BeccaInt from "@Interfaces/BeccaInt";
+
 import { WebhookClient } from "discord.js";
 import { connect } from "mongoose";
 
